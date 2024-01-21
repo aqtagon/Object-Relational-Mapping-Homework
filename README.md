@@ -1,4 +1,4 @@
-# Object-Oriented-Logo-Maker-Homework
+# Object-Relational-Mapping-Homework
 The goal of this assignment was to create a back end for an ecommerce site using mysql and sequelize along with insomnia.
 
 ### Steps Taken
