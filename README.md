@@ -29,7 +29,7 @@ The goal of this assignment was to create a back end for an ecommerce site using
 
 #### Result
 - See Ecommerce Insomnia Preview here:
-- Preview: ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 10.10.50 PM.png><Images/Screenshot 2024-01-20 at 10.11.15 PM.png><Images/Screenshot 2024-01-20 at 10.11.29 PM.png><Images/Screenshot 2024-01-20 at 9.45.56 PM.png><Images/Screenshot 2024-01-20 at 9.46.13 PM.png>)
+- Preview: ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 10.10.50 PM.png>)(<Images/Screenshot 2024-01-20 at 10.11.15 PM.png>)(<Images/Screenshot 2024-01-20 at 10.11.29 PM.png>)(<Images/Screenshot 2024-01-20 at 9.45.56 PM.png>)(<Images/Screenshot 2024-01-20 at 9.46.13 PM.png>)
 - GitHub Link: (https://github.com/aqtagon/Object-Relational-Mapping-Homework)
 - Demo: https://www.youtube.com/watch?v=295pbwAk1Wc
 
